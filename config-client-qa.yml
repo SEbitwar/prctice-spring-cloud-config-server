@@ -1,1 +1,2 @@
-msg: "Hellow From QA"
+property:
+  msg: "Hello From server QA"

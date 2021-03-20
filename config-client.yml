@@ -1,1 +1,2 @@
-msg: "Hellow From Default"
+property:
+  msg: "Hello From server Default"
