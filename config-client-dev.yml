@@ -1,2 +1,3 @@
 property:
-  msg: "Hello From server DEV"
+  name: "Hello name From server DEV"
+  desc: "Hello desc From server DEV"
