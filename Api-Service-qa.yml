@@ -1,4 +1,4 @@
 ---
 property-file:
-  name: propertyFileNmae
+  maximumBookCapacity: 1
   description: QA propertyFileDescription
