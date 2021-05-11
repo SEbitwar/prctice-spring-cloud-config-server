@@ -1,3 +1,3 @@
-property-file:
+property:
   maximumBookCapacity: 2
   description: Default propertyFileDescription
